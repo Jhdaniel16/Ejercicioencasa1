@@ -20,5 +20,5 @@ public class Ejercicioencasa1 {
        System.out.println(C + (C%10==0 ? "es multiplo de 10" : "no es multiplo de 10"));
        System.out.println(C + (C>100 ? "es mayor que 100" : "es menor que 100"));
     }
-    
+    //hola
 }
